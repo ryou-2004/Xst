@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51ac850a819243e4d8ae5c9414b0aa85, type: 3}
+  m_Name: CharaData
+  m_EditorClassIdentifier: 
+  sheet:
+  - Id: 0
+    StandingPicture: {fileID: 0}
+    Icon: {fileID: 0}
+    cardImage: {fileID: 0}
+  - Id: 1
+    StandingPicture: {fileID: 21300000, guid: 0d952bebab1070a4bbb32b7cc12138a1, type: 3}
+    Icon: {fileID: 21300000, guid: ddba5a7b3f1d2fa4ba9bf26afbd6bdc9, type: 3}
+    cardImage: {fileID: 21300000, guid: 9fd1207320ed07a4eb21f784e28ff3a5, type: 3}
+  - Id: 2
+    StandingPicture: {fileID: 21300000, guid: ace61b3214fadc0499736e54f7204167, type: 3}
+    Icon: {fileID: 21300000, guid: 1685584fd94af25479f50170afddb6fb, type: 3}
+    cardImage: {fileID: 21300000, guid: 8a32135566219bd4fb43fc295256a213, type: 3}
+  - Id: 3
+    StandingPicture: {fileID: 21300000, guid: fc8a8ed49bfda2542baf11e8e7110bef, type: 3}
+    Icon: {fileID: 21300000, guid: 62d19773cd8f0444ba26a3ad6f0f4bf9, type: 3}
+    cardImage: {fileID: 21300000, guid: fe053510dd5109d429becf51b03671d9, type: 3}
+  - Id: 4
+    StandingPicture: {fileID: 21300000, guid: 397cabfe1cba6eb418f19d7f6eacee34, type: 3}
+    Icon: {fileID: 21300000, guid: f9535021d401f3f4b8f071e99965b648, type: 3}
+    cardImage: {fileID: 21300000, guid: 3391060644bd05b439a63b959dcb2748, type: 3}
+  - Id: 5
+    StandingPicture: {fileID: 21300000, guid: 40d32a82935eafd4a8caaf935c2d71d8, type: 3}
+    Icon: {fileID: 21300000, guid: c674b46bd7e878b4ea1849937bc20ea0, type: 3}
+    cardImage: {fileID: 21300000, guid: 0ee148f0411d288439b92f23346abd91, type: 3}
+  - Id: 6
+    StandingPicture: {fileID: 21300000, guid: 20527bf3ec556974a9068739af379525, type: 3}
+    Icon: {fileID: 21300000, guid: 5eb864bdfc693174a880f2e03e9252e0, type: 3}
+    cardImage: {fileID: 21300000, guid: 19632dd43cacc9443a43e2e5e723d366, type: 3}

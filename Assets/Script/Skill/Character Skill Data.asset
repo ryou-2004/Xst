@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b57b0d156100e34ca76621330e94e62, type: 3}
+  m_Name: Character Skill Data
+  m_EditorClassIdentifier: 
+  sheet:
+  - skill: {fileID: 0}
+  - skill: {fileID: 11400000, guid: b99f37248601b5e459763830e9c267ae, type: 2}
+  - skill: {fileID: 11400000, guid: cf987f017df163e44bf2e723633856c2, type: 2}
+  - skill: {fileID: 11400000, guid: 128a5b2431e902643a4523d355e3a1f7, type: 2}
+  - skill: {fileID: 11400000, guid: 94a59c8bfdabe27459c2ed40bb64b18f, type: 2}
+  - skill: {fileID: 11400000, guid: 86df31e6d3666c94fae88a0b12d103ee, type: 2}
+  - skill: {fileID: 11400000, guid: 18988ef92cf86294a888082194ce36c4, type: 2}
